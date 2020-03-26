@@ -1,4 +1,3 @@
 Curriculum Vitae 
 Jorge Ignacio Mendoza Duran
-Analista de negocios
-Edad 24 años
+Desarrollador Android
